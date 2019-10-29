@@ -1,0 +1,22 @@
+{
+  "name": "banking",
+  "version": "1.0.0",
+  "description": "client banking application",
+  "main": "banking_conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "webdriver-update": "webdriver-manager update"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasminewd2": "^2.2.0",
+    "protractor": "^5.4.2",
+    "typescript": "^3.4.3",
+    "winston": "^3.2.1",
+    "xlsx": "^0.14.2"
+  },
+  "devDependencies": {
+    "protractor-jasmine2-html-reporter": "0.0.7"
+  }
+}

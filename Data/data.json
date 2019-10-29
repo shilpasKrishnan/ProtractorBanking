@@ -1,0 +1,25 @@
+{
+    "url":"http://www.way2automation.com/angularjs-protractor/banking/#/login",
+    "custName":"Harry Potter",
+    "index":"1",
+    "acctno1":"1004",
+    "acctno2":"1005",
+    "acctno3":"1006",
+    "amt":"2000",
+    "withdrawamt":"2001",
+    "Validwithdraw":"1000",
+    "Name1":"Ron Weasly",
+    "Currency1":"Dollar",
+    "Msg1":"Account created successfully with account Number",
+    "Name2":"Albus Dumbledore",
+    "Currency2":"Pound",
+   
+    "Name3":"Hermoine Granger",
+    "Currency3":"Rupee",
+    "delCustName":"Harry"
+    
+
+
+    
+
+}
